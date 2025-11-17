@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# MacOS system files
+.DS_Store
+
+# VSCode / IDE configs
+.vscode/
+.idea/
+
+
+# Logs
+*.log
+
+# System files
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
